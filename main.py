@@ -46,3 +46,23 @@ print(Lastname[0])
 print(firstname[1])
 
 # D. Rage Slice
+
+Firstname = "Ethan"
+Midname = "John"
+Lastname = "Kombarakkaran"
+print(Firstname[0:2])
+print(Midname[1:4])
+print(Lastname[7:13])
+
+# E. Membership( in slach no in)
+ 
+Firstname = "Elaine"
+Midname = "Richa"
+Lastname = "Kombarakkaran"
+print("i" in Firstname)
+print("e" in Midname)
+print("r" not in Midname)
+
+"""
+I learn about printing function and type conversion , string operations , Slicing , Rage Slice  And  Membership This helps me a lot
+"""
